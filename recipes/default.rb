@@ -6,3 +6,4 @@
 # 
 # All rights reserved - Do Not Redistribute
 #
+package "php5-fpm"
